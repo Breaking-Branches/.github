@@ -3,6 +3,8 @@
 
 Join Breaking Branches, an open-source community where we promote DevSecOps, where technology meets teamwork, and where endless possibilities are only a pull request away.
 
+![Image](https://i.ibb.co/7Wb6nhH/Whats-App-Image-2023-10-15-at-5-53-33-PM.jpg)
+
 ## Wanna join the community & contribute ?
 
 This community promotes DevSecOps and  welcome all contributions of this kinds, including raising bugs, starting discussions, adding documentation, creating pull requests, and so much more! Help one another and make progress! 
